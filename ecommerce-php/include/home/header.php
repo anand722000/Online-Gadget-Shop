@@ -50,8 +50,8 @@
 					<div class="col-sm-6">
 						<div class="contactinfo">
 							<ul class="nav nav-pills">
-								<li><a href="#"><i class="fa fa-phone"></i> 7888788135...</a></li>
-								<li><a href="#"><i class="fa fa-envelope"></i> anand722000@gmail.com</a></li>
+								<li><a href="#"><i class="fa fa-phone"></i> 77778888 </a></li>
+								<li><a href="#"><i class="fa fa-envelope"></i> gadgetshop@gmail.com</a></li>
 							</ul>
 						</div>
 					</div>
